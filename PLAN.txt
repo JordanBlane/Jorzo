@@ -1,0 +1,27 @@
+
+
+MAIN PAGE: {
+
+    - Search for existing users - DONE
+    - See all saved dms ( save people you have dmed in cookies) / On page load we get all the open chats they have { max 10 chats? } and we load them into the sidebar
+
+}
+
+DATA BASE: {
+
+    -Add Columns - DONE
+}
+
+PROFILE: {
+
+    -button to delete account
+    -friends
+    -change name, bio, whatever
+    -button to go back to main
+
+}
+
+
+
+-when name change check the name is available - done
+-friend cant be already in friends list - done
